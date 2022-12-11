@@ -40,4 +40,4 @@
 
     A bill example can be found in the bill folder.
     welcom screen interface look : 
-    <img src="./img/background1.png" alt="Welcome interface"></a>
+<img src="./img/background1.png" alt="Welcome interface"></a>
