@@ -14,8 +14,8 @@
 ## 🚀 Getting started <a name = "getting_started"></a>
 
     install external specified modules 
-        ~ `pip -intall tabulate`
-        ~ `pip -install tkinter`
+        ~ `pip intall tabulate`
+        ~ `pip install tkinter`
         ~ `pip install PIL`
     
 ##  ✔✔ Features <a name = "features">
